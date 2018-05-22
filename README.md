@@ -40,7 +40,7 @@ archivePrefix = "arXiv",
 # Remark
 This tool is under active development and maintenance, please feel free to contact us about any problem encountered. 
 
-# Contribution List of the Case Studies:
+## Contribution List of the Case Studies:
 
 Case Study One: Convergence Analysis and Global Robustness Evaluation (Wenjie Ruan, wenjie.ruan@cs.ox.ac.uk)
 
