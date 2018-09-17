@@ -25,16 +25,11 @@ Please run this tool by referring to different case studies folders
 
 # Citation
 ```
-@ARTICLE{2018arXiv180405805R,
-   author = {{Ruan}, Wenjie and {Wu}, Min and {Sun}, Youcheng and {Huang}, Xiaowei and {Kroening}, Daniel and 
-	{Kwiatkowska}, Marta},
-    title = "{Global Robustness Evaluation of Deep Neural Networks with Provable Guarantees for L0 Norm}",
-  journal = {ArXiv e-prints},
-archivePrefix = "arXiv",
-   eprint = {1804.05805},
-     year = 2018,
-    month = apr,
-   adsurl = {http://adsabs.harvard.edu/abs/2018arXiv180405805R}
+@article{ruan2018global,
+  author={Ruan, Wenjie and Wu, Min and Sun, Youcheng and Huang, Xiaowei and Kroening, Daniel and Kwiatkowska, Marta},
+  title={Global Robustness Evaluation of Deep Neural Networks with Provable Guarantees for L0 Norm},
+  journal={arXiv preprint arXiv:1804.05805},
+  year={2018}
 }
 ```
 # Remark
