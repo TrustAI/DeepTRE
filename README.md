@@ -36,12 +36,14 @@ Please run this tool by referring to different case-study folders
   year={2018}
 }
 ```
+```
 @article{ruan2019global,
   author={Ruan, Wenjie and Wu, Min and Sun, Youcheng and Huang, Xiaowei and Kroening, Daniel and Kwiatkowska, Marta},
   title={Global Robustness Evaluation of Deep Neural Networks with Provable Guarantees for the Hamming Distance},
 	Journal = {The 28th International Joint Conference on Artificial Intelligence (IJCAI'19)},
   year={2019}
 }
+```
 
 # Remark
 This tool is under active development and maintenance, please feel free to contact us about any problem encountered. 
