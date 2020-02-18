@@ -29,20 +29,18 @@ Please run this tool by referring to different case-study folders
 
 # Citation
 ```
-@article{ruan2018global,
-  author={Ruan, Wenjie and Wu, Min and Sun, Youcheng and Huang, Xiaowei and Kroening, Daniel and Kwiatkowska, Marta},
-  title={Global Robustness Evaluation of Deep Neural Networks with Provable Guarantees for L0 Norm},
-  journal={arXiv preprint arXiv:1804.05805},
-  year={2018}
+@inproceedings{ruan2019global,
+  title     = {Global Robustness Evaluation of Deep Neural Networks with Provable Guarantees for the Hamming Distance},
+  author    = {Ruan, Wenjie and Wu, Min and Sun, Youcheng and Huang, Xiaowei and Kroening, Daniel and Kwiatkowska, Marta},
+  booktitle = {Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, {IJCAI-19}},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},            
+  pages     = {5944--5952},
+  year      = {2019},
+  month     = {7},
+  doi       = {10.24963/ijcai.2019/824},
+  url       = {https://doi.org/10.24963/ijcai.2019/824},
 }
-```
-```
-@article{ruan2019global,
-  author={Ruan, Wenjie and Wu, Min and Sun, Youcheng and Huang, Xiaowei and Kroening, Daniel and Kwiatkowska, Marta},
-  title={Global Robustness Evaluation of Deep Neural Networks with Provable Guarantees for the Hamming Distance},
-	Journal = {The 28th International Joint Conference on Artificial Intelligence (IJCAI'19)},
-  year={2019}
-}
+
 ```
 
 # Remark
