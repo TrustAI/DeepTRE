@@ -39,7 +39,6 @@ Please run this tool by referring to different case-study folders
   doi       = {10.24963/ijcai.2019/824},
   url       = {https://doi.org/10.24963/ijcai.2019/824},
 }
-
 ```
 
 # Remark
