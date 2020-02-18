@@ -2,7 +2,7 @@
 
 __Wenjie Ruan, Min Wu, Youcheng Sun, Xiaowei Huang, Daniel Kroening, Marta Kwiatkowska.__
 
-Global Robustness Evaluation of Deep Neural Networks with Provable Guarantees for the Hamming Distance
+[Global Robustness Evaluation of Deep Neural Networks with Provable Guarantees for the Hamming Distance](https://doi.org/10.24963/ijcai.2019/824)
 
 The paper is accepted by the 28th International Joint Conference on Artificial Intelligence (IJCAI-19).
 https://doi.org/10.24963/ijcai.2019/824
