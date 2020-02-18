@@ -1,12 +1,11 @@
 # Tool: DeepTRE (Tensor-based Robustness Evaluation of DNNs for the Hamming Distance)
 
+__Wenjie Ruan, Min Wu, Youcheng Sun, Xiaowei Huang, Daniel Kroening, Marta Kwiatkowska.__
+
 Global Robustness Evaluation of Deep Neural Networks with Provable Guarantees for the Hamming Distance
 
-Wenjie Ruan, Min Wu, Youcheng Sun, Xiaowei Huang, Daniel Kroening, Marta Kwiatkowska.
-
-arXiv:1804.05805 https://arxiv.org/abs/1804.05805
-
 The paper is accepted by the 28th International Joint Conference on Artificial Intelligence (IJCAI-19).
+https://doi.org/10.24963/ijcai.2019/824
 
 Email: wenjie.ruan@cs.ox.ac.uk
 
