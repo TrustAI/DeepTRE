@@ -1,12 +1,12 @@
-# Tool: L0-TRE (Tensor-based Robustness Evaluation on DNN for L0-Norm)
+# Tool: DeepTRE (Tensor-based Robustness Evaluation of DNNs for the Hamming Distance)
 
-Global Robustness Evaluation of Deep Neural Networks with Provable Guarantees for L0 Norm
+Global Robustness Evaluation of Deep Neural Networks with Provable Guarantees for the Hamming Distance
 
 Wenjie Ruan, Min Wu, Youcheng Sun, Xiaowei Huang, Daniel Kroening, Marta Kwiatkowska.
 
 arXiv:1804.05805 https://arxiv.org/abs/1804.05805
 
-It was accepted by the 28th International Joint Conference on Artificial Intelligence (IJCAI-19).
+The paper is accepted by the 28th International Joint Conference on Artificial Intelligence (IJCAI-19).
 
 Email: wenjie.ruan@cs.ox.ac.uk
 
